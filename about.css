@@ -1,0 +1,23 @@
+#about {
+    margin: 50px 20px;
+    border-radius: 7px;
+    box-shadow: 1px 1px 5px #888;
+}
+
+#about article h2 {
+    margin: 0;
+    background-color: #85BDBF;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#about article p {
+    margin: 0;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    background-color: #cdf4fe;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
